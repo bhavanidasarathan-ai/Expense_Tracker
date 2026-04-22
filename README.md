@@ -1,11 +1,11 @@
-# 💰 Expense Tracker Web App
+# Expense Tracker Web App
 
 A full-stack **Expense Tracker Web Application** built using **Python (Flask)** for the backend and **HTML, CSS, JavaScript** for the frontend.
 This application helps users manage income, expenses, budgets, and financial insights.
 
 ---
 
-## 🚀 Features
+## Features
 
 * ➕ Add & Delete Transactions
 * 💰 Track Income & Expenses
@@ -18,7 +18,7 @@ This application helps users manage income, expenses, budgets, and financial ins
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -57,7 +57,7 @@ Expense_Tracker/
 
 ---
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
 ### 🔹 Step 1: Clone the repository
 
@@ -68,7 +68,7 @@ cd Expense_Tracker
 
 ---
 
-### 🔹 Step 2: Run Backend
+###  Step 2: Run Backend
 
 ```
 cd backend
@@ -81,20 +81,20 @@ http://127.0.0.1:5000
 
 ---
 
-### 🔹 Step 3: Run Frontend
+### Step 3: Run Frontend
 
 * Open `frontend/index.html`
 * Use **Live Server (VS Code extension)**
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 (Add your project screenshots here for better presentation)
 
 ---
 
-## 🎯 Future Improvements
+## Future Improvements
 
 * 🔐 User Authentication (Login/Signup)
 * ☁️ Deployment (Render / Railway)
@@ -103,13 +103,13 @@ http://127.0.0.1:5000
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
-**Bhavani D**
+**D Bhavani**
 
 ---
 
-## ⭐ Acknowledgment
+## Acknowledgment
 
 This project was developed as part of academic learning to understand full-stack development using Python and JavaScript.
 
